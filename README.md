@@ -28,17 +28,6 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Professional** and **AI 
 - Git & GitHub
 - Bash Scripting & Automation
 
-## Projects
-
-### [AI-Powered Threat Detection System](https://github.com/your-username/ai-threat-detection)
-A machine learning model that analyzes network traffic to detect potential cyber threats in real-time. Built with **TensorFlow** and **scikit-learn**.
-
-### [Secure Web Application Framework](https://github.com/your-username/secure-web-framework)
-A framework for building secure web applications with built-in protections against common vulnerabilities like SQL injection, XSS, and CSRF. Developed using **Python** and **Flask**.
-
-### [AI-Driven Malware Classification](https://github.com/your-username/ai-malware-classification)
-An AI model designed for classifying and detecting malware based on behavior analysis, using **deep learning** for pattern recognition and anomaly detection.
-
 ## Learning & Growth
 
 - **AI in Cyber Defense**: Exploring how AI can be leveraged to detect, respond to, and prevent cyber threats.
